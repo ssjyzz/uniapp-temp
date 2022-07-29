@@ -7,7 +7,7 @@ module.exports = {
         'stylelint-config-prettier'
     ],
     rules: {
-        // 使用4格缩进
+        // 使用2格缩进
         indentation: 2,
         // 可以使用rpx单位
         'unit-no-unknown': [true, { ignoreUnits: ['rpx'] }]
